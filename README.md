@@ -1,2 +1,2 @@
-# classics--franz-kafka--the-trial
-Classics - The Trial by Franz Kafka
+# Classics - The Trial by Franz Kafka
+
