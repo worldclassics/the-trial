@@ -1,5 +1,7 @@
-# Classics - The Trial by Franz Kafka
 
+# The Trial
+
+by Franz Kafka
 
 > Someone must have been telling lies about Josef K., he knew he had
 > done nothing wrong but, one morning, he was arrested. 
